@@ -107,9 +107,9 @@ dev_dependencies:
   # To generate Localization File's
   build_runner: ^2.4.7
   json_serializable: ^6.7.1
-  # Localization config
-  flutter_localizations:
-    sdk: flutter
+  # # Localization config
+  # flutter_localizations:
+  #   sdk: flutter
 
 # Localization config
 flutter_intl:
